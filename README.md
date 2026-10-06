@@ -10,6 +10,10 @@ This folder contains all processed, state-year datasets used to extend the Energ
 
 ---
 
+## Publication Impact
+The automated data extraction and normalization pipelines in this repository were utilized to process the foundational macroeconomic and energy datasets for the following peer-reviewed study:
+* **[Cleaner bills, cleaner air: The environmental co-benefits of stringent renewable portfolio standards policy design](https://www.sciencedirect.com/science/article/abs/pii/S0140988326001210)** (Published in *Energy Economics*, May 2026).
+
 ## 1. Energy Data
 
 | **Headers**                                                                                                                                                                              | **File Name** | **Description** | **Source** | **Years** | **State Format** |
